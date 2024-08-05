@@ -118,7 +118,8 @@ a:focus {
   display: flex;
   -webkit-box-pack: justify;
   -ms-flex-pack: justify;
-  justify-content: space-between;
+  justify-content: center;
+  align-items: center;
 }
 
 .header_section .header_top .contact_nav {
@@ -1040,6 +1041,14 @@ a:focus {
 
 .alignTele {
   display: flex;
+  align-items: center;
+  justify-items: center;
+}
+
+.centerHead{
+  display: flex;
+  justify-content: center;
+  justify-items: center;
   align-items: center;
 }
 
