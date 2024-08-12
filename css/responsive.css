@@ -47,6 +47,18 @@
     .spaceFooter{
         margin-top: 5rem;
     }
+
+    .centerText{
+        text-align: center;
+    }
+
+    .info_social{
+        justify-content: center;
+    }
+
+    .info_links{
+        align-items: center;
+    }
 }
 
 @media (max-width: 576px) {
