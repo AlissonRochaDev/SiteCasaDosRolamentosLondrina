@@ -1,9 +1,25 @@
-***Projeto Front-End institucional.***
+# 🏢 Projeto Front-End Institucional
 
-Cliente no qual presto serviços de Tecnologia a mais de dez anos, necessitava de um site atualizo e que fosse Respnsivo.
+Projeto desenvolvido para um **cliente de longa data** (mais de 10 anos de parceria em serviços de tecnologia), que necessitava de um site **atualizado** e totalmente **responsivo**.
 
-Esse Projeto ainda esta em análise para ajustes.
+## 🎯 Objetivo
+Criar um site institucional moderno, responsivo e de fácil navegação, garantindo boa experiência para usuários em **desktop** e **dispositivos móveis**.
 
-Todo o Site esta onstruido com códigos Nativos, apenas utilizando algumas ferramentas como Bootstrap e JQuery.
+## 🛠 Tecnologias Utilizadas
+- **HTML5**  
+- **CSS3**  
+- **JavaScript Nativo**  
+- **Bootstrap**  
+- **jQuery**  
 
-Site Atual: https://www.casadorolamento.com.br
+## 📂 Status do Projeto
+Este projeto ainda está em **análise para ajustes** e melhorias.  
+
+## 🌍 Site Atual
+🔗 [Casa do Rolamento](https://www.casadorolamento.com.br)  
+
+## 📂 Estrutura
+├── index.html
+├── style.css
+├── script.js
+├── /assets # imagens, ícones e recursos
